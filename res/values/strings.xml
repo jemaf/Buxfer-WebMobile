@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Buxfer WebMobile Beta</string>
+<string name="url">http://www.buxfer.com/iphone</string>
+<string name="noConnMsg">
+You are not connected to the internet.  \n \n
+		
+- Check if you are connected to a network. \n
+- Check if your network has internet connection.
+</string>
+<string name="changelog">
+v 2.0: \n
+- Now available for android 1.6!! \n
+- The webview does not reload when the orietation changes. \n \n
+
+
+v 1.0.1: \n
+- Updated the mobile URL (Now you can access with a mobile layout). \n
+- Insert changelog screen. \n \n
+
+
+v 1.0: \n
+- First version of the application.
+
+</string>
+</resources>

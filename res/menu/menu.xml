@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<group android:id="@+id/Default" android:menuCategory="container">
+		<item android:id="@+id/changelog_menuitem" android:title="Changelog"></item>
+		<item android:id="@+id/about_menuitem" android:title="About Buxfer"></item>
+		<item android:id="@+id/about_myapp_menuitem" android:title="About This App"></item>
+	</group>
+    
+	<group android:id="@+id/Navigation" android:menuCategory="system">
+		<item android:id="@+id/back_menuitem" android:title="Back" android:menuCategory="system"></item>
+	<item android:title="Foward" android:id="@+id/foward_menuitem" android:menuCategory="system"></item></group>
+	
+</menu>
